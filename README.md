@@ -1,1 +1,1 @@
-# my-awesome-repo
+Customer churn prediction of Telecommunications company
